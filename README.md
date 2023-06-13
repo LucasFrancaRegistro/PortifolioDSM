@@ -1,5 +1,7 @@
 # Portifolio DSM
-
+<p>
+Meu portifolio 
+</p>
 <h3>Sobre mim</h3>
 <p>
 Durante o curso de Desenvolvimento de Software Multiplataforma na FATEC, adquiri diversas habilidades tanto tecnicas quanto habilidades com lidar com pessoas, tais necessearias para eceder no mercado de trabalho aonde 
