@@ -2,7 +2,8 @@
 
 <h3>Sobre mim</h3>
 <p>
- sobre mim
+Durante o curso de Desenvolvimento de Software Multiplataforma na FATEC, adquiri diversas habilidades tanto tecnicas quanto habilidades com lidar com pessoas, tais necessearias para eceder no mercado de trabalho aonde 
+ palnejo crescer nos anos após minha formatura
 </p>
 <h2>Projetos</h2>
 <h3>Sistema de serviços tecnicos - 1º Semestre/2022</h3>
