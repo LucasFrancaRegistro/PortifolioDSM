@@ -24,11 +24,15 @@ Esses desafios foram fundamentais para aprimorar minhas habilidades na criação
 <br>
 <h3>Web Scraper - 2º Semestre/2022</h3>
 <p>
-  sobre o projeto
+Desta vez, tive a oportunidade de trabalhar com uma empresa real chamada MidAll. Nesse projeto, fomos encarregados de desenvolver um sistema capaz de coletar informações relevantes para um sindicato de professores a partir do Diário Oficial do estado de São Paulo, em um horário específico todos os dias. Além da coleta de dados, o sistema também precisaria gerar relatórios individuais para cada associado e oferecer a opção de enviá-los por e-mail.
 </p>
   <h4>Minha Experiência</h4>
     <p>
-    sobre mim
+   Neste projeto, enfrentei diversos desafios ao coletar as informações do site do Diário Oficial, o que ampliou consideravelmente minha habilidade na criação de algoritmos. Além disso, fui responsável por desenvolver o agendamento do sistema, garantindo que as informações fossem coletadas somente nos dias em que os novos diários eram publicados. Também foi necessário criar relatórios em formato PDF.
+
+Um aspecto interessante desse projeto foi a utilização do JavaScript, que me proporcionou uma introdução à linguagem e me permitiu trabalhar com um projeto envolvendo múltiplas linguagens. Essa experiência foi valiosa para o meu crescimento profissional, pois me ajudou a expandir minhas habilidades e conhecimentos em programação.
+
+Em relação às soft skills, o trabalho em grupo proporcionou uma variedade de ideias sobre como o projeto deveria funcionar. Foi uma experiência interessante discutir todos os pontos de vista e chegar à melhor solução. Além disso, enfrentei o desafio de lidar com colegas que não contribuíam igualmente para o projeto, o que foi uma situação difícil para mim, porém um aprendizado necessário.
     </p>
 <br>
 <h3>Sistema de gestão de cobranças - 3º Semestre/2023</h3>
