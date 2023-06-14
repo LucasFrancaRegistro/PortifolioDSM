@@ -37,9 +37,13 @@ Em relação às soft skills, o trabalho em grupo proporcionou uma variedade de 
 <br>
 <h3>Sistema de gestão de cobranças - 3º Semestre/2023</h3>
 <p>
-sobre o projeto
+Dessa vez, tive a oportunidade de trabalhar com a Pro4Tech na construção de um sistema de cobranças. O objetivo era criar um sistema em que o setor de vendas pudesse cadastrar clientes e títulos para esses clientes. Em seguida, o setor financeiro seria responsável por administrar essas informações, podendo alterar dados e efetuar pagamentos de prestações. Além disso, ambos os setores teriam acesso a um relatório com uma tabela flexível e filtros para obter qualquer tipo de informação necessária.
 </p>
   <h4>Minha Experiência</h4>
     <p>
-    sobre mim
+    Neste projeto, enfrentei o desafio de desenvolver o backend utilizando Java, o que foi uma experiência totalmente nova para mim, já que nunca havia trabalhado com Java ou com uma linguagem orientada a objetos antes. Superar essa dificuldade exigiu que eu aprimorasse minha lógica de algoritmos. No entanto, após muito esforço e dedicação, consegui desenvolver minhas habilidades em Java, considerando-a agora como uma linguagem dominante, além de compreender os conceitos de orientação a objetos.
+
+Fui responsável por diversas funções do backend, como implementar os cadastros, gerar e efetuar o pagamento das prestações, manipular todas as operações de inserção, seleção e atualização das informações no banco de dados, e coletar os dados necessários para a geração do relatório com base nos filtros selecionados. 
+  
+  Neste projeto, trabalhei com um grupo consideravelmente menor, porém com membros mais confiáveis. Essa experiência foi interessante, pois tivemos menos problemas com a falta de produtividade de alguns membros, o que nos permitiu organizar melhor as tarefas e melhorar a comunicação entre a equipe. Aprendi a importância de uma comunicação eficiente e uma boa organização para o sucesso do projeto.
     </p>
