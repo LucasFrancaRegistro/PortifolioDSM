@@ -13,6 +13,9 @@ Neste projeto, desenvolvemos um sistema gerenciador de pedidos de assistência t
 
 Além disso, o administrador possui funções adicionais, como a capacidade de demitir técnicos, responder chamados de qualquer técnico, visualizar as avaliações de cada técnico e obter uma média do sistema. O administrador também tem acesso a gráficos que demonstram a porcentagem de chamados abertos e fechados durante um determinado período, bem como uma linha do tempo que mostra a abertura e fechamento dos chamados ao longo do tempo.
   </p>
+  <div align="center">
+  ![api1](https://github.com/LucasFrancaRegistro/PortifolioDSM/assets/101057737/99cd2fa3-3583-4b84-a9fe-c63c36fcbbec)
+  </div>
   <a href=https://github.com/Desduh/BrazilianTech>Link pro repositório</a>
   <h4>Minha Experiência</h4>
     <p>
@@ -27,6 +30,10 @@ Esses desafios foram fundamentais para aprimorar minhas habilidades na criação
 <p>
 Desta vez, tive a oportunidade de trabalhar com uma empresa real chamada MidAll. Nesse projeto, fomos encarregados de desenvolver um sistema capaz de coletar informações relevantes para um sindicato de professores a partir do Diário Oficial do estado de São Paulo, em um horário específico todos os dias. Além da coleta de dados, o sistema também precisaria gerar relatórios individuais para cada associado e oferecer a opção de enviá-los por e-mail.
 </p>
+<div align="center">
+ ![api2](https://github.com/LucasFrancaRegistro/PortifolioDSM/assets/101057737/c74a162d-b9b3-4a96-ba33-a10519dc086f)
+
+  </div>
  <a href=https://github.com/All-Tech-DSM/API-2>Link pro repositório</a>
   <h4>Minha Experiência</h4>
     <p>
