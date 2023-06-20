@@ -14,7 +14,9 @@ Neste projeto, desenvolvemos um sistema gerenciador de pedidos de assistência t
 Além disso, o administrador possui funções adicionais, como a capacidade de demitir técnicos, responder chamados de qualquer técnico, visualizar as avaliações de cada técnico e obter uma média do sistema. O administrador também tem acesso a gráficos que demonstram a porcentagem de chamados abertos e fechados durante um determinado período, bem como uma linha do tempo que mostra a abertura e fechamento dos chamados ao longo do tempo.
   </p>
   <div align="center">
+    
   ![api1](https://github.com/LucasFrancaRegistro/PortifolioDSM/assets/101057737/99cd2fa3-3583-4b84-a9fe-c63c36fcbbec)
+  
   </div>
   <a href=https://github.com/Desduh/BrazilianTech>Link pro repositório</a>
   <h4>Minha Experiência</h4>
@@ -26,11 +28,13 @@ Minhas principais contribuições estiveram focadas no desenvolvimento do backen
 Esses desafios foram fundamentais para aprimorar minhas habilidades na criação de algoritmos e na resolução de problemas, além de proporcionar experiência prática com tecnologias amplamente utilizadas no mercado de trabalho. Além disso, trabalhar nesse projeto também me permitiu desenvolver minhas habilidades de trabalho em equipe, incluindo a capacidade de discutir soluções, compartilhar minha perspectiva e ouvir as opiniões dos outros, além de lidar com membros da equipe que enfrentavam dificuldades.
     </p>
 <br>
+<hr>
 <h3>Web Scraper - 2º Semestre/2022</h3>
 <p>
 Desta vez, tive a oportunidade de trabalhar com uma empresa real chamada MidAll. Nesse projeto, fomos encarregados de desenvolver um sistema capaz de coletar informações relevantes para um sindicato de professores a partir do Diário Oficial do estado de São Paulo, em um horário específico todos os dias. Além da coleta de dados, o sistema também precisaria gerar relatórios individuais para cada associado e oferecer a opção de enviá-los por e-mail.
 </p>
 <div align="center">
+  
  ![api2](https://github.com/LucasFrancaRegistro/PortifolioDSM/assets/101057737/c74a162d-b9b3-4a96-ba33-a10519dc086f)
 
   </div>
@@ -44,10 +48,16 @@ Um aspecto interessante desse projeto foi a utilização do JavaScript, que me p
 Em relação às soft skills, o trabalho em grupo proporcionou uma variedade de ideias sobre como o projeto deveria funcionar. Foi uma experiência interessante discutir todos os pontos de vista e chegar à melhor solução. Além disso, enfrentei o desafio de lidar com colegas que não contribuíam igualmente para o projeto, o que foi uma situação difícil para mim, porém um aprendizado necessário.
     </p>
 <br>
+<hr>
 <h3>Sistema de gestão de cobranças - 3º Semestre/2023</h3>
 <p>
 Dessa vez, tive a oportunidade de trabalhar com a Pro4Tech na construção de um sistema de cobranças. O objetivo era criar um sistema em que o setor de vendas pudesse cadastrar clientes e títulos para esses clientes. Em seguida, o setor financeiro seria responsável por administrar essas informações, podendo alterar dados e efetuar pagamentos de prestações. Além disso, ambos os setores teriam acesso a um relatório com uma tabela flexível e filtros para obter qualquer tipo de informação necessária.
 </p>
+<div align="center">
+  
+ ![api3](https://github.com/LucasFrancaRegistro/PortifolioDSM/assets/101057737/902e285d-0119-4b9d-9a11-4adf2ff4924a)
+
+  </div>
 <a href=https://github.com/Neo-Brasil>Link pro repositório</a>
   <h4>Minha Experiência</h4>
     <p>
